@@ -10,7 +10,7 @@ To install via Git:
 
     mkdir -p ~/Library/Application\ Support/TextMate/Bundles
     cd ~/Library/Application\ Support/TextMate/Bundles
-    git clone git://github.com/drnic/ruby-tmbundle.git "Ruby.tmbundle"
+    git clone git://github.com/johngibb/ruby-tmbundle.git "Ruby.tmbundle"
     osascript -e 'tell app "TextMate" to reload bundles'
 
 Source can be viewed or forked via GitHub: [http://github.com/drnic/ruby-tmbundle](http://github.com/drnic/ruby-tmbundle)
